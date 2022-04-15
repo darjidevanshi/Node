@@ -1,4 +1,4 @@
-var config = {
+const config = {
 
     user: 'dotnet_dev',
     password: 'Esmsys-20$20',
